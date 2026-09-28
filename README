@@ -1,12 +1,29 @@
-################################################################################
-### How to Use This Software   ###
-################################################################################
-1 - Copy-Paste the link-url from your playlist or video/audio that you want to download
-2 - Select the right settings in the menu at the left-top of the app
-3 - Click on the massive button at the bottom 
-4 - There you go !
+### AVDownloader (2026, V.1)
+This is an download software based on FFMPEG and YT-DLP
+You doesn't need to download any other dependancies
 
-This software is based on YT-DLP. It's more like an UI interface for it that a unic tool
-Enjoy ! :3
-(if you have some issues with the software, send me an e-mail with the description of the issue
- lubipro.custom@gmail.com )
+## How to use ?
+1 - Open the software
+2 - Copy-Paste your link
+3 - Select an audio or video version (for this V.1, the quality is the best possible, .opus for the audio selection and .mp4 for the video)
+4 - Click on Download 
+
+## Known Issues :
+1 - The info-bar isn't working properly, you have to leave and rejoind the window to know if the downloading is finished
+2 - This is a french version, sorry for that, but I think you can reach the end...
+3 - Some fonctionnalities aren't inplemented in the software now
+
+This issues will be fixed on the weeks that are coming.
+If you found new ones, you can e-mail me to my adress
+
+## Contact and Support :
+e-mail : lubipro.custom@gmail.com
+instagram : lubi-artwork
+
+Enjoy !
+
+## Legal Disclamer :
+This software is provided for educational and personal use only. 
+The author of AVDownloader assumes no responsibility or liability for any misuse of this tool. 
+It is the user's sole responsibility to ensure they comply with the Terms of Service of the respective platforms and to respect all applicable local and international copyright laws. 
+Do not use this software to download or distribute copyrighted material without permission.
